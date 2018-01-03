@@ -2,4 +2,6 @@
 .build-ubuntu/*
 *.xcodeproj/*
 *.DS_Store
+*.swp
+config/messages.json
 config/my-cloudant-credentials.json

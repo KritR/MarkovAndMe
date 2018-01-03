@@ -1,7 +1,7 @@
 ---
 applications:
- - name: Get-Started-Swift
+ - name: Markov-And-Me
    random-route: true
    memory: 256M
-   command: get-started-swift
+   command: markov-and-me
    buildpack: swift_buildpack

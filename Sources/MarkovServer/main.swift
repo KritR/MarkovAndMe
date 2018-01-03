@@ -14,16 +14,11 @@
 * limitations under the License.
 */
 
-import LoggerAPI
-import HeliumLogger
 import Kitura
-import GetStartedApp
-
-// Init logger
-HeliumLogger.use(LoggerMessageType.info)
+import MarkovApp
 
 // Create controller instance
-let controller = Controller()
+let controller = MarkovController()
 
 // Start Kitura server
 Kitura.addHTTPServer(onPort: controller.port, with: controller.router)

@@ -1,0 +1,5 @@
+[
+["SENTENCE_START", "Yo", "This", "Is", "Fun", "SENTENCE_END"],
+["SENTENCE_START", "This", "File", "Is", "An", "Example", "SENTENCE_END"],
+["SENTENCE_START", "Follow", "This", "format", "to", "make", "this", "work" "SENTENCE_END"]
+]
